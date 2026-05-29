@@ -9,8 +9,8 @@
 These disclosures are published to place the described inventions into the public domain as prior art. BitPoolz retains the right to implement all described systems. No third party may obtain a valid patent on any system substantially similar to those described herein, as this publication establishes prior art as of the date above.
 
 **US Copyright Registration:** Case #1-15173171741 (BitPoolz Platform Source Code v1.0)  
-**US Patent:** Provisional application filed — 75 claims across 22 inventions  
-**Trademarks:** 20 registered marks including BitPoolz™, The Drip™, Wave Pool™, Pipeline™, Smart Queue Engine™, SplitStake™, PoolShare™, Proof of Fair Play™
+**US Patent:** Provisional application filed — App #64/077,231 | 121 claims across 39 inventions | Conf #1233
+**Trademarks:** BitPoolz™, The Pipeline™, Probability Token™, Transparent Probabilistic Pool Architecture™, SplitStake™, PoolShare™, Proof of Fair Play™, Smart Queue Engine™, Wave Pool™ and others
 
 ## Disclosures Index
 

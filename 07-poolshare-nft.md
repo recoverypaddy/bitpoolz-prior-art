@@ -3,7 +3,7 @@ title: PoolShare Non-Fungible Token (NFT) for Verified Position History
 author: Patrick Harrington Maloy
 date: 2026-05-28
 copyright_case: 1-15173171741
-patent_status: Provisional filed, 75 claims
+patent_status: Provisional filed, App #64/077,231 — 121 claims, 39 inventions
 purpose: Defensive prior art publication
 ---
 
